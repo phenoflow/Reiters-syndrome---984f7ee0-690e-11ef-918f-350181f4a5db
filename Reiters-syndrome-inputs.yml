@@ -1,0 +1,66 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/reiters-syndrome-associated---secondary.py
+inputModule3:
+  class: File
+  path: python/lower-reiters-syndrome---secondary.py
+inputModule4:
+  class: File
+  path: python/reiters-syndrome-ankle---secondary.py
+inputModule5:
+  class: File
+  path: python/reiters-syndrome-forearm---secondary.py
+inputModule6:
+  class: File
+  path: python/reiters-syndrome-specified---secondary.py
+inputModule7:
+  class: File
+  path: python/upper-reiters-syndrome---secondary.py
+inputModule8:
+  class: File
+  path: python/reiters-syndrome-shoulder---secondary.py
+inputModule9:
+  class: File
+  path: python/reiters-syndrome-thigh---secondary.py
+inputModule10:
+  class: File
+  path: python/multiple-reiters-syndrome---secondary.py
+inputModule11:
+  class: File
+  path: python/cooccurrent-reiters-syndrome---secondary.py
+inputModule12:
+  class: File
+  path: python/juvenile-reiters-syndrome---secondary.py
+inputModule13:
+  class: File
+  path: python/postdysenteric-reiters-syndrome---secondary.py
+inputModule14:
+  class: File
+  path: python/reiters-syndrome-lesion---secondary.py
+inputModule15:
+  class: File
+  path: python/reiters-syndrome-balanitis---secondary.py
+inputModule16:
+  class: File
+  path: python/reiters-syndrome-urethritis---secondary.py
+inputModule17:
+  class: File
+  path: python/postgenitourinary-reiters-syndrome---secondary.py
+inputModule18:
+  class: File
+  path: python/reiters-syndrome-vulvovaginitis---secondary.py
+inputModule19:
+  class: File
+  path: python/reiters-syndrome-dystrophy---secondary.py
+inputModule20:
+  class: File
+  path: python/reiters-syndrome-conjunctivitis---secondary.py
+inputModule21:
+  class: File
+  path: python/reiter's---secondary.py
+inputModule22:
+  class: File
+  path: python/output-cases.py
